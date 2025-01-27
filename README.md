@@ -44,10 +44,13 @@ I am a final-year Computer Science and Engineering undergraduate passionate abou
 
 ---
 
-### 4. [**Predicting Bus Arrival Time Using GPS Data**](#) <!-- Replace '#' with the appropriate repository link if available -->
+### 4. [**Predicting Bus Arrival Time Using GPS Data**](https://github.com/navindu-ds/CS3501-Sem-5-DSE)
 - Built a hybrid CNN-Transformer model to predict bus arrival times under complex traffic conditions. Created a dashboard for visualization.
 - **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
+
+## 📧 Contact Me
+- Email: [themira.20@cse.mrt.ac.lk](mailto:themira.20@cse.mrt.ac.lk)
 
 Feel free to explore my repositories and connect for collaboration!
