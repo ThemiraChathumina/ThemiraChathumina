@@ -24,6 +24,15 @@ I am a final-year Computer Science and Engineering undergraduate passionate abou
 
 - **Interests**: Software engineering, full-stack development, AI, and impactful projects.
 
+## 📊 GitHub Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThemiraChathumina&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThemiraChathumina&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ThemiraChathumina&theme=radical)
+
+
 ## 💻 Highlighted Projects
 
 ### 1. [**LSP4IntelliJ Language Server Client Library**](https://github.com/ballerina-platform/lsp4intellij)
