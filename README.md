@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Themira Chathumina
 
 <!--
 **ThemiraChathumina/ThemiraChathumina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a final-year Computer Science and Engineering undergraduate passionate about problem-solving, innovative technology, and tackling real-world challenges. My expertise includes machine learning, software development, and natural language processing.
+
+## 🧑‍💻 About Me
+- **Education**: BSc Engineering (Hons), Computer Science & Engineering at the University of Moratuwa.
+- **Skills**:
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+- **Interests**: Software engineering, full-stack development, AI, and impactful projects.
