@@ -26,11 +26,7 @@ I am a final-year Computer Science and Engineering undergraduate passionate abou
 
 ## 📊 GitHub Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThemiraChathumina&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThemiraChathumina&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ThemiraChathumina&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThemiraChathumina&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThemiraChathumina&layout=compact&theme=radical)
 
 
 ## 💻 Highlighted Projects
